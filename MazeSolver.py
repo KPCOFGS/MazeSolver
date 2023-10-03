@@ -181,7 +181,7 @@ class MazeGenerate():
 
         # Display the image (optional)
         image.show()
-if __name__ == "__main__":
+if __name__ != "__main__":
     generate = MazeGenerate()
     row = int(input("Length: "))
     column = int(input("Height: "))
