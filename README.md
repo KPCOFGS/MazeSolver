@@ -1,5 +1,5 @@
 # MazeSolver
-This generates a maze based on input row and column size. Minimum size is 5x5. To Generate, you need to have PIL installed
+This generates a maze based on input row and column size, and it will solve the maze. Minimum size is 5x5. To Generate, you need to have PIL installed
 <br>
 Fast Use:
 <br>
